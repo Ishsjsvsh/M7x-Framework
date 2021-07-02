@@ -1,0 +1,12 @@
+apt-get install python
+apt-get install nmap
+apt-get install ruby
+apt-get install php
+apt-get install metasploit
+pip install python-geoip-geolite2
+pip install googlesearch-python
+pip install scapy
+pip install dnspython
+pip install requests
+pip install sockets
+pip install bs4
