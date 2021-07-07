@@ -7,8 +7,9 @@ pip install python-geoip-geolite2
 pip install googlesearch-python
 pip install pyshorteners
 pip install dnspython
-pip install hashlib
 pip install requests
+pip install hashlib
+pip install secrets
 pip install sockets
 pip install scapy
 pip install bs4
