@@ -20,7 +20,9 @@ print('''
 |  \/  |__  |_ _____| __| _ __ _ _ __  _____ __ _____ _ _| |__
 | |\/| | / /\ \ /___| _| '_/ _` | '  \/ -_) V  V / _ \ '_| / /
 |_|  |_|/_/ /_\_\   |_||_| \__,_|_|_|_\___|\_/\_/\___/_| |_\_\ ''')
-print("https://www.mafia7x.tech\n")
+print("https://www.Mafia7x.tech")
+print("https://t.me\Mafia_7x")
+print("@Mafia7x in instagram\n")
 
 print("[01] Information Gathering")
 print("[02] Sniffing & Spoofing")
