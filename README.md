@@ -11,5 +11,5 @@ bash Install.sh
 python M7x-Framework.py"><pre>apt-get install python git
 git clone https://github.com/Mafia7x/M7x-Framework
 <span class="pl-c1">cd</span> M7x-Framework
-python M7x-Framework.py
-bash Install.sh</pre></div>
+bash Install.sh
+python M7x-Framework.py</pre></div>
