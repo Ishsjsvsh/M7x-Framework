@@ -897,7 +897,7 @@ if mafia7x == "7" or mafia7x == "07":
     print("\n[01] Visa Card Collector")
     print("[02] Proxy Collector")
     print("[03] Hosting Maker")
-    print("[04] shorten your link")
+    print("[04] Shorten Your Link")
     print("[00] Back to main menu\n")
     mafia7x_other = input("[+] Other Tools > ")
     if mafia7x_other == "1" or mafia7x_other == "01":
